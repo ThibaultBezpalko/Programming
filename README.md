@@ -1,2 +1,2 @@
 # Programming
-Vitrine de modestes productions faites lors de MOOC
+Vitrine de productions faites lors de MOOC autour de la programmation
